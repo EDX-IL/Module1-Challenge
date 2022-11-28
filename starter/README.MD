@@ -17,6 +17,7 @@ How to use <alt> for image elements
 Using header attributes in sequential order
 To Title my page with a concise, descriptive title
 
+To make my project standout i changed the colour of the "SEO" class in my style sheet
 
 
 
@@ -37,6 +38,9 @@ $ git clone https://github.com/EDX-IL/Module1-Challenge.git
 ## Usage
 
 As a static webpage with hyperlinks you can use it by reading and clicking the links
+
+![Alt text](https://user-images.githubusercontent.com/117127605/204393143-c02cfef5-22c2-443d-a562-669bd8162b55.png "Screenshot of My Webpage")
+
 
 ## Credits
 
