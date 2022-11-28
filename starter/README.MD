@@ -31,6 +31,7 @@ Live Server
 Open in Browser
 
 $ cd ../path/to/the/where/you/want/to/work/from/on/your/computer
+
 $ git clone https://github.com/EDX-IL/Module1-Challenge.git
 
 
